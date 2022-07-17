@@ -1,2 +1,2 @@
-# Primeiro-reposit-rio.-Code-Girls-DIO
+# Primeiro-reposit-dio.-Code-Girls-DIO
 Primeiro Projeto.
